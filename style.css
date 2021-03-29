@@ -1,0 +1,25 @@
+html,
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box {
+    border-radius: 5px;
+    border: 1px solid #ececec;
+    color: #fff;
+    background-color: #ececec;
+    padding: 10px;
+}
+
+.font-title {
+    font-weight: bold;
+    font-size: xx-large;
+    color: #000;
+}
+
+.font-paragraph {
+    font-weight: 400;
+    font-size: x-large;
+    color: #000;
+    text-align: justify;
+}
